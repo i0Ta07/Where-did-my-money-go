@@ -124,6 +124,7 @@ If you directly want to integrate with claude. Don't create the .env file just p
 - Add summary functions.
 - Add budget table (monthly, quaterly, half-yearly and yearly)
 - Configure Docker for local server.
+- Batch Functions
 
 ### Acknowledgments
 
