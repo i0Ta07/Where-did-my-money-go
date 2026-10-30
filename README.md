@@ -1,4 +1,4 @@
-# Expense Tracker MCP
+# Where did my money go
 
 A FastMCP-based server for managing personal expenses, with full CRUD operations and currency conversion support. Designed to integrate with Claude Desktop or other LLM clients. All the data resides on your machine.
 
@@ -125,6 +125,8 @@ If you directly want to integrate with claude. Don't create the .env file just p
 - Add budget table (monthly, quaterly, half-yearly and yearly)
 - Configure Docker for local server.
 - Batch Functions
+- Use SQLAlchemy, Alembic for V2.
+- Add pytest.
 
 ### Acknowledgments
 
